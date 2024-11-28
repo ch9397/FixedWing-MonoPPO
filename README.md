@@ -37,11 +37,26 @@ conda activate MonoPPO
 
 # :sparkles:Results 
 
-​			      <img src="./results/NYC_1.gif" width="325" height="" />   							<img src="./results/NYC_2.gif" width="325" height="" />
+<div style="display: inline-block; margin-left: 55px; padding-right: 30px;">
+    <img src="./results/NYC_1.gif" width="325" height="" />
+</div>
+<div style="display: inline-block; margin-left: 75px;">
+    <img src="./results/NYC_2.gif" width="325" height="" />
+</div>
 
-​			      <img src="./results/NYC_3.gif" width="325" height="" /> 							  <img src="./results/NYC_4.gif" width="325" height="" />
+<div style="display: inline-block; margin-left: 55px; padding-right: 30px;">
+    <img src="./results/NYC_3.gif" width="325" height="" />
+</div>
+<div style="display: inline-block; margin-left: 75px;">
+    <img src="./results/NYC_4.gif" width="325" height="" />
+</div>
 
-​			      <img src="./results/grass.gif" width="325" height="" /> 							  <img src="./results/VALLEY.gif" width="325" height="" />
+<div style="display: inline-block; margin-left: 55px; padding-right: 30px;">
+    <img src="./results/grass.gif" width="325" height="" />
+</div>
+<div style="display: inline-block; margin-left: 75px;">
+    <img src="./results/VALLEY.gif" width="325" height="" />
+</div>
 
 # :scroll: Cite
 
