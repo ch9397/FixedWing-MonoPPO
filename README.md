@@ -37,21 +37,20 @@ conda activate MonoPPO
 
 # :sparkles:Results 
 
-<div style="text-align: center;">
+<center>
   <img src="./results/NYC_1.gif" width="325" />
   <img src="./results/NYC_2.gif" width="325" />
-</div>
+</center>
 
-
-<div style="text-align: center;">
+<center>
   <img src="./results/NYC_3.gif" width="325" />
   <img src="./results/NYC_4.gif" width="325" />
-</div>
+</center>
 
-<div style="text-align: center;">
+<center>
   <img src="./results/grass.gif" width="325" />
   <img src="./results/VALLEY.gif" width="325" />
-</div>
+</center>
 
 # :scroll: Cite
 
