@@ -6,7 +6,7 @@
 
 This repository contains the implementation of a lightweight deep reinforcement learning (DRL) based collision avoidance system for fixed-wing unmanned aerial vehicles (UAVs) based on AirSim and JSBSim.
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 100%; gap: 0;">   <img src="./image/NYC4.png" alt="NYC4" style="zoom:20%; max-width: 25%;" />   <img src="./image/NYC2.png" alt="NYC2" style="zoom:20%; max-width: 25%;" />   <img src="./image/grass.png" alt="grass_1" style="zoom:20%; max-width: 25%;" />   <img src="./image/shangu_3.png" alt="shangu_3" style="zoom:20%; max-width: 25%;" /> </div>
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 100%; gap: 0;">   <img src="./image/NYC4.png" alt="NYC4" style="zoom:20%; max-width: 25%;" />   <img src="./image/nyc2.png" alt="NYC2" style="zoom:20%; max-width: 25%;" />   <img src="./image/grass.png" alt="grass_1" style="zoom:20%; max-width: 25%;" />   <img src="./image/shangu_3.png" alt="shangu_3" style="zoom:20%; max-width: 25%;" /> </div>
 
 # :mag_right:Overview
 
@@ -60,7 +60,7 @@ Please cite our work if you find it useful or use any of our code
 
 # :octocat: Acknowledgements
 We use part of the code from different repositories. We thank the authors and maintainers of the following repositories.
-- [Fixedwing-Airsim]([AOS55/Fixedwing-Airsim: Combines JSBSim and Airsim with a python module to simulate a fixedwing](https://github.com/AOS55/Fixedwing-Airsim))
-- [Depth-Anything]([LiheYoung/Depth-Anything: [CVPR 2024\] Depth Anything: Unleashing the Power of Large-Scale Unlabeled Data. Foundation Model for Monocular Depth Estimation](https://github.com/LiheYoung/Depth-Anything))
+- [Fixedwing-Airsim](https://github.com/AOS55/Fixedwing-Airsim)
+- [Depth-Anything](https://github.com/LiheYoung/Depth-Anything)
 - [ZoeDepth](https://github.com/isl-org/ZoeDepth)
-- [Rewrite the Stars]([ma-xu/Rewrite-the-Stars: [CVPR 2024\] Rewrite the Stars](https://github.com/ma-xu/Rewrite-the-Stars))
+- [Rewrite the Stars](https://github.com/ma-xu/Rewrite-the-Stars)
