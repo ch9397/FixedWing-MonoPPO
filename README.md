@@ -6,7 +6,7 @@
 
 This repository contains the implementation of a lightweight deep reinforcement learning (DRL) based collision avoidance system for fixed-wing unmanned aerial vehicles (UAVs) based on AirSim and JSBSim.
 
-<div style="display: flex; justify-content: space-around; flex-wrap: wrap; max-width: 100%; gap: 0;">   <img src="./image/NYC4.png" alt="NYC4" style="zoom:20%; max-width: 25%;" />   <img src="./image/nyc2.png" alt="NYC2" style="zoom:20%; max-width: 25%;" />   <img src="./image/grass.png" alt="grass_1" style="zoom:20%; max-width: 25%;" />   <img src="./image/shangu_3.png" alt="shangu_3" style="zoom:20%; max-width: 25%;" /> </div>
+<img src="./image/NYC4.png" width="295" height="160"/><img src="./image/nyc2.png" alt="NYC2" width="285" height="160"/><img src="./image/grass.png" alt="grass_1" width="280" height="160"/><img src="./image/shangu_3.png" alt="shangu_3" width="280" height="160"/>
 
 # :mag_right:Overview
 
@@ -32,16 +32,16 @@ conda activate MonoPPO
 
 ### Depth Model Preparation
 
-- Download pre-trained relative-depth model provided by [Depth-Anything]([checkpoints/depth_anything_vitl14.pth · LiheYoung/Depth-Anything at main](https://huggingface.co/spaces/LiheYoung/Depth-Anything/blob/main/checkpoints/depth_anything_vitl14.pth)) for initializing the depth encoder and put it under the `checkpoints` directory
+- Download pre-trained relative-depth model provided by [Depth-Anything](https://huggingface.co/spaces/LiheYoung/Depth-Anything/blob/main/checkpoints/depth_anything_vitl14.pth) for initializing the depth encoder and put it under the `checkpoints` directory
 - Download pre-trained starnet_s1 model [here](https://github.com/ma-xu/Rewrite-the-Stars/releases/download/checkpoints_v1/starnet_s1.pth.tar) and put it under the `checkpoints` directory
 
 # :sparkles:Results 
 
-<div style="display: flex; justify-content: space-around;">   <img src="./results/NYC_1.gif" alt="NYC_1" style="zoom:50%;" />   <img src="./results/NYC_2.gif" alt="NYC_2" style="zoom:50%;" /> </div>
+​			      <img src="./results/NYC_1.gif" width="325" height="" />   							<img src="./results/NYC_2.gif" width="325" height="" />
 
-<div style="display: flex; justify-content: space-around;">   <img src="./results/NYC_3.gif" alt="NYC_3" style="zoom:50%;" />   <img src="./results/NYC_4.gif" alt="NYC_4" style="zoom:50%;" /> </div>
+​			      <img src="./results/NYC_3.gif" width="325" height="" /> 							  <img src="./results/NYC_4.gif" width="325" height="" />
 
-<div style="display: flex; justify-content: space-around;">   <img src="./results/grass.gif" alt="grass" style="zoom:50%;" />   <img src="./results/VALLEY.gif" alt="VALLEY" style="zoom:50%;" /> </div>
+​			      <img src="./results/grass.gif" width="325" height="" /> 							  <img src="./results/VALLEY.gif" width="325" height="" />
 
 # :scroll: Cite
 
