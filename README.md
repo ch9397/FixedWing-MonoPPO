@@ -6,7 +6,7 @@
 
 This repository contains the implementation of a lightweight deep reinforcement learning (DRL) based collision avoidance system for fixed-wing unmanned aerial vehicles (UAVs) based on AirSim and JSBSim.
 
-<img src="./image/NYC4.png" width="190" height="120"/><img src="./image/nyc2.png" alt="NYC2" width="200" height="120"/><img src="./image/grass.png" alt="grass_1" width="200" height="120"/><img src="./image/shangu_3.png" alt="shangu_3" width="200" height="120"/>
+<img src="./image/NYC4.png" width="200" height="130"/><img src="./image/nyc2.png" alt="NYC2" width="210" height="130"/><img src="./image/grass.png" alt="grass_1" width="210" height="130"/><img src="./image/shangu_3.png" alt="shangu_3" width="210" height="130"/>
 
 # :mag_right:Overview
 
