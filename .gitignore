@@ -2,8 +2,7 @@ ppo_star.py
 RL_netPose_star.py
 depth_file.py
 depth_get.py
-env/*
-!env/.gitkeep
+env/drone_env_star.py
 checkpoints/*
 !checkpoints/.gitkeep
 depth_finetune/*
